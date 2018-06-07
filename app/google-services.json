@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1032993428706",
+    "firebase_url": "https://gcsbackend.firebaseio.com",
+    "project_id": "gcsbackend",
+    "storage_bucket": "gcsbackend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032993428706:android:b53e7de34dab56b5",
+        "android_client_info": {
+          "package_name": "com.nikhil.gcs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032993428706-an2ue9j2cu33i09rk78lkjau92kc1jie.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1032993428706-an2ue9j2cu33i09rk78lkjau92kc1jie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhZ1avLHFgOtVbwJTwkxBTRVC-Vmy86As"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
